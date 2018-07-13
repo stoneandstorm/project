@@ -1,0 +1,9 @@
+{
+  "name" : "stoneandstorm/project",
+  "description" : "Default project",
+  "license": "proprietary",
+  "type": "project",
+  "require": {
+    "php": ">=5.4"
+  }
+}
