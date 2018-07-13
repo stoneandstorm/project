@@ -2,6 +2,7 @@
   "name" : "stoneandstorm/project",
   "description" : "Default project",
   "license": "proprietary",
+  "version": "0.0.1",
   "type": "project",
   "require": {
     "php": ">=5.4"
